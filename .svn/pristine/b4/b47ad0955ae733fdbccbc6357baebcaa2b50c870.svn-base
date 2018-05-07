@@ -1,0 +1,3 @@
+PROXY_IP_ORDER_NUMBER=http://dynamic.goubanjia.com/dynamic/get/c2b1bc082acbef86184c818257a05353.html?random=yes
+PROXY_IP_REDIS_KEY=proxy.138.
+DRIVER_PHANTOMJSDRIVER=C:\\Program Files (x86)\\phantomjs-2.0.0-windows\\bin\\phantomjs.exe
